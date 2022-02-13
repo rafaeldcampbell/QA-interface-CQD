@@ -1,0 +1,4 @@
+torch
+tqdm
+numpy
+python3.8-tk
